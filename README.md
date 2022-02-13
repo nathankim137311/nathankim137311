@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathankim137311&label=Profile%20views&color=0e75b6&style=flat" alt="nathankim137311" /> </p>
 
-- 🔭 I’m currently working on [lego-clone](https://github.com/nathankim137311/lego-store)
-
 - 💬 Ask me about **React, Javascript**
 
 - 📫 How to reach me **nathankim137311@gmail.com**
