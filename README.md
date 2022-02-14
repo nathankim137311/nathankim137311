@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React, Javascript**
 
-- 📫 How to reach me **nathankim137311@gmail.com**
+- 📫 How to reach me **nathankim137311@gmail.com** or **https://www.linkedin.com/in/nathan-kim-826a25230/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
