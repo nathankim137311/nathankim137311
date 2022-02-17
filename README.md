@@ -7,7 +7,7 @@
 
 - 📫 How to reach me [email](nathankim137311@gmail.com), [twitter](https://twitter.com/underdawg347)
 
-- If you want to see my face [LinkedIn](https://www.linkedin.com/in/nathan-kim-826a25230/
+- If you want to see my face [LinkedIn](https://www.linkedin.com/in/nathan-kim-826a25230/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
