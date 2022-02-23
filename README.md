@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathankim137311&label=Profile%20views&color=0e75b6&style=flat" alt="nathankim137311" /> </p>
 
-- 💬 Ask me about **React, Javascript**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me [email](nathankim137311@gmail.com), [twitter](https://twitter.com/underdawg347)
 
