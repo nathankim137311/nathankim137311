@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
-<h3 align="center">A passionate fullstack developer from the USA</h3>
+<h3 align="center">A passionate front end developer from the USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathankim137311&label=Profile%20views&color=0e75b6&style=flat" alt="nathankim137311" /> </p>
+
+- Check out my portfolio! [nathankim.dev](https://nathankim.dev)
 
 - 💬 Ask me about **React, JavaScript**
 
