@@ -9,7 +9,7 @@
 
 <h3>What I do:</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/1229mlttgo8aR2/giphy.gif" alt="monkey typing on keys" />
+  <img src="https://media.giphy.com/media/1229mlttgo8aR2/giphy.gif" alt="monkey typing on keys" width="500" />
 </p>
 
 <h3>About</h3>
