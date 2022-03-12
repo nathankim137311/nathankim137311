@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathankim137311&label=Profile%20views&color=0e75b6&style=flat" alt="nathankim137311" /> </p>
 
-- Check out my portfolio! [nathankim.dev](https://nathankim.dev){:target="_blank"}
+- Check out my portfolio! [nathankim.dev](https://nathankim.dev):target="_blank"
 
 - 💬 Ask me about **React, JavaScript**
 
-- 📫 How to reach me [email](nathankim137311@gmail.com){:target="_blank"}, [twitter](https://twitter.com/underdawg347){:target="_blank"}
+- 📫 How to reach me [email](nathankim137311@gmail.com):target="_blank", [twitter](https://twitter.com/underdawg347):target="_blank"
 
-- If you want to see my face [LinkedIn](https://www.linkedin.com/in/nathan-kim-826a25230/){:target="_blank"}
+- If you want to see my face [LinkedIn](https://www.linkedin.com/in/nathan-kim-826a25230/):target="_blank"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
