@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathankim137311&label=Profile%20views&color=0e75b6&style=flat" alt="nathankim137311" /> </p>
 
-- Check out my portfolio! [nathankim.dev](https://nathankim.dev):target="_blank"
+- Check out my portfolio! <a href="https://nathankim.dev" target="_blank">nathankim.dev</a>
 
 - 💬 Ask me about **React, JavaScript**
 
