@@ -1,6 +1,6 @@
 <h1 align="center">Hey! 😎 Nice seeing you.</h1>
   
-‼️![My Portfolio!](https://nathankim.dev/)‼️
+‼️ ![My Portfolio!](https://nathankim.dev/) ‼️
 
 <h3>☎️ Connect with me:</h3>
 
