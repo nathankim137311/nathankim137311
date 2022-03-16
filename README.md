@@ -1,5 +1,7 @@
 <h1 align="center">Hey! 😎 Nice seeing you.</h1>
 
+![Follow](https://img.shields.io/github/followers/nathankim137311.svg?style=social&label=Follow&maxAge=2592000) ![Views](https://komarev.com/ghpvc/?username=nathankim137311&label=Profile%20views&color=0e75b6&style=flat&label=Eyeballs)
+
 <a href="https://nathankim.dev/" target="_blank" >‼️ My Portfolio ‼️</a>
 
 <h3>☎️ Connect with me:</h3>
@@ -33,5 +35,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathankim137311&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathankim137311&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Follow](https://img.shields.io/github/followers/nathankim137311.svg?style=social&label=Follow&maxAge=2592000) ![Views](https://komarev.com/ghpvc/?username=nathankim137311&label=Profile%20views&color=0e75b6&style=flat&label=Eyeballs)
