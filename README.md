@@ -22,7 +22,7 @@
 
 <h3>⚾ Hobbies:</h3>
 
-* 🏈 Football (NFL) fan
+* 🏈 Seahawks fan
 * 🎮 Gaming
 * ✏️ Drawing
 
