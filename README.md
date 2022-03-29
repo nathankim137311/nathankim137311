@@ -20,7 +20,7 @@
 <h3>About</h3>
 <p align="left">I am a passionate front end developer with experience in a wide range of knowledge in design, JavaScript (ES6), and OOP principles. I am currently trying to learn and master back end development.</p>
 
-<h3>⚾ Hobbies</h3>
+<h3>⚾ Hobbies:</h3>
 
 * 🏈 Seahawks fan
 * 🎮 Gaming
