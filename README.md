@@ -15,7 +15,8 @@
 
 <h3>Currently working on:</h3>
 
-* Dnd Discord bot
+* Space Tourism Site
+* Dnd Discord Bot
 * Contributing to open-source
 
 <h3>About</h3>
